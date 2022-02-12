@@ -1,0 +1,18 @@
+{
+  "name": "Danielle Gerhard",
+  "short_name": "Danielle Gerhard",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/media/icon_huf04c82a587129bf696e0286aa9b1154e_91264_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_huf04c82a587129bf696e0286aa9b1154e_91264_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

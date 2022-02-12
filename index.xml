@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danielle Gerhard</title>
+    <link>https://daniellegerhard.com/</link>
+      <atom:link href="https://daniellegerhard.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Danielle Gerhard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://daniellegerhard.com/media/icon_huf04c82a587129bf696e0286aa9b1154e_91264_512x512_fill_lanczos_center_3.png</url>
+      <title>Danielle Gerhard</title>
+      <link>https://daniellegerhard.com/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://daniellegerhard.com/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Road to Treating Mitochondrial Diseases</title>
+      <link>https://daniellegerhard.com/project/mtdna/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/project/mtdna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extinction trial spacing across days differentially impacts fear regulation in adult and adolescent male mice</title>
+      <link>https://daniellegerhard.com/publication/2021_nlm/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2021_nlm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infographic: Understanding Bacteriophages</title>
+      <link>https://daniellegerhard.com/project/phage_infographic/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/project/phage_infographic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antimicrobial Resistance: The Silent Pandemic</title>
+      <link>https://daniellegerhard.com/project/amr/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/project/amr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telomerase: The Protector of Chromosomes</title>
+      <link>https://daniellegerhard.com/project/telomerase/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/project/telomerase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science Milestones: The First Transgenic Mice</title>
+      <link>https://daniellegerhard.com/project/transgenic/</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/project/transgenic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer Cells Need Fatty Acids to Survive in the Brain</title>
+      <link>https://daniellegerhard.com/project/metastasis/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/project/metastasis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Connected Community: The Rise of Microbiome Research</title>
+      <link>https://daniellegerhard.com/project/may_ebook/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/project/may_ebook/</guid>
+      <description>&lt;p&gt;Link to download eBook: &lt;a href=&#34;https://offers.the-scientist.com/a-connected-community-the-rise-of-microbiome-research-multisponosred-ebook&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://offers.the-scientist.com/a-connected-community-the-rise-of-microbiome-research-multisponosred-ebook&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this issue, I contributed 4 short science news stories that explore how microbes shape health, disease, and the world beyond.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;gut-microbes-alter-the-health-benefits-of-a-mediterranean-diet&#34;&gt;Gut Microbes Alter the Health Benefits of a Mediterranean Diet&lt;/h2&gt;
+&lt;p&gt;Longitudinal dietary habits and stool samples help scientists understand how the gut microbiome determines whether an individual fully benefits from a heart healthy diet.&lt;/p&gt;
+&lt;p&gt;Reference:
+D.D. Wang et al., “The gut microbiome modulates the protective association between
+a Mediterranean diet and cardiometabolic disease risk,” &lt;em&gt;Nat Med&lt;/em&gt;, 27:333-43, 2021.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;increased-rates-of-gene-transfer-in-industrialized-microbes&#34;&gt;Increased Rates of Gene Transfer in Industrialized Microbes&lt;/h2&gt;
+&lt;p&gt;From urban metropolises to pastoral communities, the world around us shapes the function of our microbiome through frequent horizontal gene transfer.&lt;/p&gt;
+&lt;p&gt;Reference:
+M. Groussin et al., “Elevated rates of horizontal gene transfer in the industrial- ized human microbiome,” &lt;em&gt;Cell&lt;/em&gt;, 184(8): 2053-67, 2021.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;searching-the-seas-for-new-antifungals&#34;&gt;Searching the Seas for New Antifungals&lt;/h2&gt;
+&lt;p&gt;The sea squirt microbiome helps researchers combat the growing problem of drug-resistant fungi.&lt;/p&gt;
+&lt;p&gt;Reference:
+F. Zhang et al., “A marine microbiome anti- fungal targets urgent-threat drug-resistant fungi,” &lt;em&gt;Science&lt;/em&gt;, 370(6519):974-78, 2020.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;legume-trees-hold-the-microbial-key-to-unlock-essential-soil-nutrients&#34;&gt;Legume Trees Hold the Microbial Key to Unlock Essential Soil Nutrients&lt;/h2&gt;
+&lt;p&gt;Nitrogen-fixing trees and their soil microbiomes play an important role in fertilizing the tropical forest community.&lt;/p&gt;
+&lt;p&gt;Reference:
+D.Z. Epihov et al., “Legume-microbiome interactions unlock mineral nutrients
+in regrowing tropical forests,” &lt;em&gt;PNAS&lt;/em&gt;, 118(11):e2022241118, 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Adolescent Sensitive Period for Threat Responding: Impacts of Stress and Sex</title>
+      <link>https://daniellegerhard.com/publication/2021_biolpsych/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2021_biolpsych/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Checking Checkpoints for Treating Cancer</title>
+      <link>https://daniellegerhard.com/project/april_ebook/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/project/april_ebook/</guid>
+      <description>&lt;p&gt;Link to download eBook: &lt;a href=&#34;https://viewonline.the-scientist.com/checking-checkpoints-for-treating-cancer-multisponsored-ebook&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://viewonline.the-scientist.com/checking-checkpoints-for-treating-cancer-multisponsored-ebook&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this issue, I contributed 4 short science news stories on checkpoint inhibitors.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;fecal-transplants-could-help-combat-checkpoint-inhibitor-resistance&#34;&gt;Fecal Transplants Could Help Combat Checkpoint Inhibitor Resistance&lt;/h2&gt;
+&lt;p&gt;In two different Phase I trials, researchers demonstrated the safety of fecal microbiota transplant and provided evidence that it improves treatment response in a subset of melanoma patients.&lt;/p&gt;
+&lt;p&gt;References:
+1 ) E.N. Baruch et al., “Fecal microbiota transplant promotes response in immunotherapy-refractory melanoma patients,” &lt;em&gt;Science&lt;/em&gt;, doi: 10.1126/science. abb5920.
+2 ) D. Davar et al., “Fecal microbiota transplant overcomes resistance to anti-PD1 therapy in melanoma patients,” &lt;em&gt;Science&lt;/em&gt;, doi: 10.1126/science.abf3363.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;predicting-immunotherapy-response-from-tumor-gene-expression&#34;&gt;Predicting Immunotherapy Response from Tumor Gene Expression&lt;/h2&gt;
+&lt;p&gt;Using pan-cancer whole-exome and transcriptome data and multivariate predictive models, researchers identified biomarkers associated with sensitivity to checkpoint inhibitors.&lt;/p&gt;
+&lt;p&gt;Reference:
+K. Litchfield et al., “Meta-analysis of tumor- and T cell-intrinsic mechanisms of sensitization to checkpoint inhibition,” &lt;em&gt;Cell&lt;/em&gt;, doi: 10.1016/j.cell.2021.02.002&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;a-targeted-delivery-system-for-checkpoint-inhibitors-improves-efficacy&#34;&gt;A Targeted Delivery System for Checkpoint Inhibitors Improves Efficacy&lt;/h2&gt;
+&lt;p&gt;New research shows how encapsulating checkpoint inhibitors in metal-organic frameworks can lead to a more targeted and sustained delivery to the tumor microenvironment.&lt;/p&gt;
+&lt;p&gt;Reference:
+S.K. Alsaiari et al., “Sustained and targeted delivery of checkpoint inhibitors by metal-organic frameworks for cancer immunotherapy,” &lt;em&gt;Science Advances&lt;/em&gt;, doi: 10.1126/sciadv.abe7174.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;a-simple-and-cost-effective-pan-cancer-biomarker&#34;&gt;A Simple and Cost-Effective Pan-Cancer Biomarker&lt;/h2&gt;
+&lt;p&gt;In a retrospective study of cancer patients on checkpoint inhibitors, researchers showed how a biomarker obtained from a routine blood test may predict sensitivity to checkpoint inhibitor treatment.&lt;/p&gt;
+&lt;p&gt;Reference:
+C. Valero et al., “Pretreatment neutrophil- to-lymphocyte ratio and mutational burden as biomarkers of tumor response to immune checkpoint inhibitors,” &lt;em&gt;Nature Communications&lt;/em&gt;, doi 10.1038/s41467-021- 20935-9.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Surveillance Gaps: How Cancer Arises</title>
+      <link>https://daniellegerhard.com/project/march_ebook/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/project/march_ebook/</guid>
+      <description>&lt;p&gt;Link to download eBook: &lt;a href=&#34;https://viewonline.the-scientist.com/surveillance-gaps-how-cancer-arises-10xgenomics-ebook-new-template&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://viewonline.the-scientist.com/surveillance-gaps-how-cancer-arises-10xgenomics-ebook-new-template&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this issue exploring mechanisms behind cancer cell immune evasion I contributed 2 science news article.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;an-orchestrated-attack-helps-cancer-cells-evade-immune-defenses&#34;&gt;An Orchestrated Attack Helps Cancer Cells Evade Immune Defenses&lt;/h2&gt;
+&lt;p&gt;Using CRISPR-Cas9 screening methods, scientists identified a core set of genes that boost cancer cell resistance to killer T cells&lt;/p&gt;
+&lt;p&gt;Reference: K.A. Lawson et al., “Functional genomic landscape of cancer-intrinsic evasion of killing by T cells,” &lt;em&gt;Nature&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;tracing-the-steps-of-tumor-development&#34;&gt;Tracing the Steps of Tumor Development&lt;/h2&gt;
+&lt;p&gt;Single-cell sequencing methods help scientists characterize the cellular heterogeneity in solid tumors and reconstruct the trajectory of tumor progression.&lt;/p&gt;
+&lt;p&gt;Reference: S.D. Praktiknjo et al., “Tracing tumorigenesis in a solid tumor model at single-cell resolution,” &lt;em&gt;Nature Communications&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pre-adolescent stress disrupts adult, but not adolescent, safety learning</title>
+      <link>https://daniellegerhard.com/publication/2021_bbr/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2021_bbr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell-type specific modulation of NMDA receptors triggers antidepressant actions</title>
+      <link>https://daniellegerhard.com/publication/2020b_molpsych/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2020b_molpsych/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inhibitory regulation of calcium transients in prefrontal dendritic spines is compromised by a nonsense Shank3 mutation</title>
+      <link>https://daniellegerhard.com/publication/2020a_molpsych/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2020a_molpsych/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GABA interneurons are the cellular trigger for ketamine&#39;s rapid antidepressant actions</title>
+      <link>https://daniellegerhard.com/publication/2020_jci/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2020_jci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ketamine disinhibits dendrites and enhances calcium signals in prefrontal dendritic spines</title>
+      <link>https://daniellegerhard.com/publication/2020_natcommun/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2020_natcommun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://daniellegerhard.com/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   **Two** 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three 
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Role of neuronal VEGF signaling in the prefrontal cortex in the rapid antidepressant effects of ketamine</title>
+      <link>https://daniellegerhard.com/publication/2019_ajp/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2019_ajp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reshaping the depressed brain: A focus on synaptic health</title>
+      <link>https://daniellegerhard.com/publication/2018b_biolpsych/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2018b_biolpsych/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting barriers to treatment for depression in a U.S. national sample: a cross-sectional, proof-of-concept study</title>
+      <link>https://daniellegerhard.com/publication/2018_psychservices/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2018_psychservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex-specific molecular changes in depression</title>
+      <link>https://daniellegerhard.com/publication/2018a_biolpsych/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2018a_biolpsych/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid-acting antidepressants: mechanistic insights and future directions</title>
+      <link>https://daniellegerhard.com/publication/2018_cbnr/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2018_cbnr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cacna1c in the prefrontal cortex regulates depression-related behaviors via REDD1</title>
+      <link>https://daniellegerhard.com/publication/2017_npp/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2017_npp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular and cellular mechanisms of rapid-acting antidepressants ketamine and scopolamine</title>
+      <link>https://daniellegerhard.com/publication/2017_currneuropharm/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2017_currneuropharm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GABA interneurons mediate the rapid antidepressant-like effects of scopolamine</title>
+      <link>https://daniellegerhard.com/publication/2016_jci/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2016_jci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emerging treatment mechanisms for depression: focus on glutamate and synaptic plasticity</title>
+      <link>https://daniellegerhard.com/publication/2016_ddt/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2016_ddt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A diet enriched with curcumin impairs newly acquired and reactivated fear memories</title>
+      <link>https://daniellegerhard.com/publication/2015_npp/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2015_npp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maintenance of dominance status is necessary for resistance to social defeat stress in Syrian hamsters</title>
+      <link>https://daniellegerhard.com/publication/2014_bbr/</link>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2014_bbr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://daniellegerhard.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
