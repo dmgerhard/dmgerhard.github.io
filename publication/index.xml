@@ -5,12 +5,36 @@
     <link>https://daniellegerhard.com/publication/</link>
       <atom:link href="https://daniellegerhard.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://daniellegerhard.com/media/icon_huf04c82a587129bf696e0286aa9b1154e_91264_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://daniellegerhard.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Biological Mechanisms of Anxiety Disorders: Animal and Human Studies</title>
+      <link>https://daniellegerhard.com/publication/2022_bookchapter/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2022_bookchapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimenters&#39; sex modulates mouse behaviors and neural responses to ketamine via corticotropin releasing factor</title>
+      <link>https://daniellegerhard.com/publication/2022_natneuro/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2022_natneuro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Added Value of Crosstalk Between Developmental Circuit Neuroscience and Clinical Practice to Inform the Treatment of Adolescent Anxiety</title>
+      <link>https://daniellegerhard.com/publication/2022_bpgos/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://daniellegerhard.com/publication/2022_bpgos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Extinction trial spacing across days differentially impacts fear regulation in adult and adolescent male mice</title>
